@@ -144,7 +144,7 @@ int main()
     uint32_t last_blink_time = 0;
     bool led_state = false;
 
-    // Configuração dos PIO para controlar a matriz de LEDs
+    // Configuração para controlar a matriz de LEDs
     PIO pio = pio0;
     uint offset = pio_add_program(pio, &pio_matrix_program);
     uint sm = pio_claim_unused_sm(pio, true);
