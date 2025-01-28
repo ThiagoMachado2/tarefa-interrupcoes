@@ -34,10 +34,14 @@ Este projeto utiliza o microcontrolador **RP2040** na placa **BitDogLab** para c
    - Uso de interrupções para detectar os botões A e B.
    - Implementação de debouncing via software para evitar leituras falsas.
 
-   ## 📹 Demonstração
-Veja o vídeo da demonstração abaixo:
+## 📹 Demonstração
+Veja o vídeo da demonstração no YouTube através do link abaixo:
 
-![Demonstração do Projeto](./Video-Demostração-Do-Codigo-Na-Placa-BitDogLab.mp4)
+[Vídeo de Demonstração do Projeto](https://youtu.be/HsksHqiZUsE)
+
+Ou assista diretamente no repositório:
+
+[Demonstração do Projeto](./Video-Demostração-Do-Codigo-Na-Placa-BitDogLab.mp4)
 
 ---
 
